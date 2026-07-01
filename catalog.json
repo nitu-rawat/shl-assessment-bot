@@ -1,0 +1,20 @@
+[
+  {
+    "name": "OPQ32r",
+    "url": "https://www.shl.com/solutions/products/opq32r/",
+    "test_type": "P",
+    "description": "Measures personality and behavioral preferences in a work environment. Great for culture fit and leadership."
+  },
+  {
+    "name": "General Ability Test (GSA)",
+    "url": "https://www.shl.com/solutions/products/general-ability/",
+    "test_type": "K",
+    "description": "Measures cognitive ability, critical thinking, and problem-solving skills."
+  },
+  {
+    "name": "Java Online Test",
+    "url": "https://www.shl.com/solutions/products/java-test/",
+    "test_type": "K",
+    "description": "Evaluates core Java programming skills, syntax, and software development concepts."
+  }
+]
